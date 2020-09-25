@@ -18,7 +18,7 @@ page 50090 "ChangeCompanyDropdownPart_DSK"
                 begin
                     CurrPage.ChangeCompanyDropdown.SetOption('id', 'ChangeCompanyDropdown_DSK');
                     CurrPage.ChangeCompanyDropdown.SetOption('caption', 'Change Company');
-                    CurrPage.ChangeCompanyDropdown.SetOption('title', 'Change your damn company now!');
+                    CurrPage.ChangeCompanyDropdown.SetOption('title', 'Change current company.');
 
                     if Comp.FindSet() then
                         repeat
