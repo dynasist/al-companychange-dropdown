@@ -1,0 +1,21 @@
+{
+  "extensions": {
+    "recommendations": [
+      "waldo.al-extension-pack"
+    ]
+  },
+  "folders": [
+    {
+      "path": "./ChangeCompany"
+    }
+  ],
+  "settings": {
+    "al.codeAnalyzers": [
+      "${PerTenantExtensionCop}",
+      "${CodeCop}",
+      "${UICop}"
+    ],
+    "al.enableCodeAnalysis": true,
+    "al.enableCodeActions": true
+  }
+}

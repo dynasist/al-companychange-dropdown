@@ -1,0 +1,43 @@
+{
+  "id": "b8716739-8d24-43de-918f-6f5f478d9da3",
+  "name": "Change Company Dropdown",
+  "publisher": "Dynasist Solutions Kft.",
+  "brief": "Adds a change company dropdown to Business Manager role center.",
+  "description": "Adds a change company dropdown to Business Manager role center.",
+  "version": "1.0.0.1",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "name": "System Application",
+      "publisher": "Microsoft",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "name": "Base Application",
+      "publisher": "Microsoft",
+      "version": "16.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 50090,
+      "to": 50100
+    }
+  ],
+  "showMyCode": true,
+  "target": "Cloud",
+  "supportedLocales": [
+    "en-US"
+  ],
+  "runtime": "5.0",
+  "features": [
+    "TranslationFile"
+  ]
+}

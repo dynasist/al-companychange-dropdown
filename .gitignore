@@ -1,0 +1,7 @@
+ChangeCompany/.alpackages
+ChangeCompany/.vscode/*.json
+ChangeCompany/entitlements.json
+ChangeCompany/extensionsPermissionSet.xml
+ChangeCompany/*.app
+node_modules
+yarn.lock
